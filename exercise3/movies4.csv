@@ -1,4 +1,4 @@
-ID,Title,Year,Duration (hours),Duration Minutes,Duration,IMDB Link,Director,Type
+﻿ID,Title,Year,Duration (hours),Duration Minutes,Duration,IMDB Link,Director,Type
 tt0111161,The Shawshank Redemption ,1994,2,22,142,http://imdb.com/title/tt0111161,http://datadock.io/LODWorkshopMay18/delegate4/id/resource/exercise2.csv/id/frank-darabont,http://schema.org/Movie
 tt0068646,The Godfather,1972,2,55,175,http://imdb.com/title/tt0068646,http://datadock.io/LODWorkshopMay18/delegate4/id/resource/exercise2.csv/id/francis-ford-coppola,http://schema.org/Movie
 tt0468569,The Dark Knight ,2008,2,32,152,http://imdb.com/title/tt0468569,http://datadock.io/LODWorkshopMay18/delegate4/id/resource/exercise2.csv/id/christopher-nolan,http://schema.org/Movie
